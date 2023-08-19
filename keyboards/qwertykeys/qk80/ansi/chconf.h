@@ -1,4 +1,5 @@
-/* Copyright 2023 Qwertykeys
+/* 
+ * Copyright 2023 Qwertykeys
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,10 +17,8 @@
 
 #pragma once
 
-#define HAL_USE_I2C TRUE
+#define CH_CFG_ST_TIMEDELTA 0
 
-#define HAL_USE_SPI TRUE
+#define CH_CFG_USE_CONDVARS_TIMEOUT FALSE
 
-#define HAL_USE_PWM TRUE
-
-#include_next <halconf.h>
+#include_next <chconf.h>

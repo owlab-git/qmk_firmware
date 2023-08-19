@@ -1,20 +1,20 @@
-# qk100 - ANSI PCB
+# qk80 - 625U ANSI PCB
 
-![qk100](https://i.imgur.com/im0iArYh.jpg)
+![qk80](https://i.imgur.com/qSXHoWyh.jpg)
 
-A 100% made by Qwertykeys.
+A 80% made by Qwertykeys.
 
 * Keyboard Maintainer: [Qwertykeys](https://github.com/owlab-git)
-* Hardware Supported: qk100 ANSI PCB
-* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/qRwKr7mW1oWy
+* Hardware Supported: qk80 625U ANSI PCB
+* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/AoBGOwZMOmwa
 
 Make example for this keyboard (after setting up your build environment):
 
-    make qwertykeys/qk100/ansi:default
+    make qwertykeys/qk80/ansi_625u:default
 
 Flashing example for this keyboard:
 
-    make qwertykeys/qk100/ansi:default:flash
+    make qwertykeys/qk80/ansi_625u:default:flash
 
 **Bootloader:** Press the button B on PCB while plugging in the board.
 

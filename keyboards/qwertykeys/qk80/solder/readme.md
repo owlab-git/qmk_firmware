@@ -1,20 +1,20 @@
-# qk100 - Solder PCB
+# qk80 - Solder PCB
 
-![qk100](https://i.imgur.com/im0iArYh.jpg)
+![qk80](https://i.imgur.com/qSXHoWyh.jpg)
 
-A 100% made by Qwertykeys.
+A 80% made by Qwertykeys.
 
 * Keyboard Maintainer: [Qwertykeys](https://github.com/owlab-git)
-* Hardware Supported: qk100 Solder PCB
-* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/qRwKr7mW1oWy
+* Hardware Supported: qk80 Solder PCB
+* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/AoBGOwZMOmwa
 
 Make example for this keyboard (after setting up your build environment):
 
-    make qwertykeys/qk100/solder:default
+    make qwertykeys/qk80/solder:default
 
 Flashing example for this keyboard:
 
-    make qwertykeys/qk100/solder:default:flash
+    make qwertykeys/qk80/solder:default:flash
 
 **Bootloader:** Press the button B on PCB while plugging in the board.
 
