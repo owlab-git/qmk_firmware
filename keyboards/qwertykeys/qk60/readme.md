@@ -1,20 +1,20 @@
-# qk65 - iso PCB
+# qk60 - PCB
 
-![qk65](https://i.imgur.com/BnZl8Xzh.jpg)
+![qk60](https://i.imgur.com/qX4GAePh.jpg)
 
-A 65% made by Qwertykeys.
+A 60% made by Qwertykeys.
 
 * Keyboard Maintainer: [Qwertykeys](https://github.com/owlab-git)
-* Hardware Supported: qk65 iso PCB
-* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/2dAB7MbpgBPp
+* Hardware Supported: qk60 PCB
+* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/4oK8b0gKLPYW
 
 Make example for this keyboard (after setting up your build environment):
 
-    make qwertykeys/qk65/iso:default
+    make qwertykeys/qk60:default
 
 Flashing example for this keyboard:
 
-    make qwertykeys/qk65/iso:default:flash
+    make qwertykeys/qk60:default:flash
 
 **Bootloader:** Press the button B on PCB while plugging in the board.
 
