@@ -1,20 +1,20 @@
-# qk75 - Solder PCB
+# qk65 - Hotswap R2 PCB
 
-![qk75](https://i.imgur.com/h4YVgj2h.jpg)
+![qk65](https://i.imgur.com/kFhx5qSh.jpg)
 
-A 75% made by Qwertykeys.
+A 65% made by Qwertykeys.
 
 * Keyboard Maintainer: [Qwertykeys](https://github.com/owlab-git)
-* Hardware Supported: qk75 solder PCB
-* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/9XL095J5zOzb
+* Hardware Supported: qk65 hotswap r2 PCB
+* Hardware Availability: Ended groupbuy: https://www.zfrontier.com/app/flow/2dAB7MbpgBPp
 
 Make example for this keyboard (after setting up your build environment):
 
-    make qwertykeys/qk75/solder:default
+    make qwertykeys/qk65/r2:default
 
 Flashing example for this keyboard:
 
-    make qwertykeys/qk75/solder:default:flash
+    make qwertykeys/qk65/r2:default:flash
 
 **Bootloader:** Press the button B on PCB while plugging in the board.
 
